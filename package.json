@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tabler/icons-react": "^3.36.1",
+    "@uiw/react-md-editor": "^4.0.11",
     "appwrite": "^22.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
